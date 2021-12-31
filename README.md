@@ -1,2 +1,3 @@
-Kedi ve Köpek Tespiti
+#CatsAndDogsClassifier
+Kedi ve Köpek Tespiti,
 TfLite ile eğitilen veri modelinin flutter üzerine entegresiyle yapılmıştır.
